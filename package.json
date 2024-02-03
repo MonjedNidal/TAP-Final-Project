@@ -1,7 +1,6 @@
 {
   "name": "final-project-2",
   "version": "0.1.0",
-  "homepage": "https://sd-1023.github.io/Frontend-Final-2",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.11.3",

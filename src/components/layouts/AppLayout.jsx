@@ -21,7 +21,7 @@ export default function AppLayout() {
 
   return (
     <div className="bg-color-bright flex flex-col justify-between min-h-[100vh]">
-      <BrowserRouter basename="/Frontend-Final-2">
+      <BrowserRouter>
         <SearchContext>
           <WishlistContext>
             <CategoriesContext>
