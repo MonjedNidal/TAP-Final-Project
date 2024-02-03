@@ -1,7 +1,7 @@
 import Icon from "../../../shared-components/Icon";
 
 export default function BannerGrid() {
-  const IMG_PATH = "/Frontend-Final-2/assets/images/home-banner-grid/";
+  const IMG_PATH = "/assets/images/home-banner-grid/";
 
   return (
     <div className="m-4">
