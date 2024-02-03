@@ -1,6 +1,5 @@
 export default function Hero() {
-  const IMG_PATH =
-    "/Frontend-Final-2/assets/images/categories/handpag-hero.png";
+  const IMG_PATH = "/assets/images/categories/handpag-hero.png";
   return (
     <div className="relative hidden md:block">
       <img
