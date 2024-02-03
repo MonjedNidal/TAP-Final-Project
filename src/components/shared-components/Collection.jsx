@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 export default function CollectionCard({ image, title, path }) {
-  const IMG_PATH = "/Frontend-Final-2/assets/images/";
+  const IMG_PATH = "/assets/images/";
   return (
     <Link
       to={path}
